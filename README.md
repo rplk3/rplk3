@@ -6,9 +6,9 @@
   Currently pursuing an <strong>Information Technology Degree</strong> at <strong>SLIIT</strong>
 </p>
 
----
 
-### 🛠️ Tech Stack & Tools
+
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
 
@@ -20,9 +20,9 @@
 
 </div>
 
----
 
-### 🔗 Connect with Me
+
+<h3 align="center">🔗 Connect with Me</h3>
 
 <div align="center">
   
