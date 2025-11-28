@@ -12,11 +12,10 @@ I'm currently pursuing an **Information Technology Degree** at **SLIIT**
 | **Frontend** | React |
 | **Backend** | Node.js, Spring Boot |
 
----
+
 
 ### 🔗 Let's Connect
 
 * **LinkedIn:** [Ranuda Perera](https://www.linkedin.com/in/ranuda-perera)
 * **Instagram:** [@ranuda.r](https://www.instagram.com/ranuda.r)
 
----
