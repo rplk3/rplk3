@@ -1,10 +1,16 @@
-### Hi there 👋 I'm Ranuda
+<h1 align="center">Hi there 👋 I'm Ranuda</h1>
 
-🚀 **A Software Developer in progress**
+<h3 align="center">🚀 A Software Developer in progress</h3>
 
-I'm currently pursuing an **Information Technology Degree** at **SLIIT**
+<p align="center">
+  Currently pursuing an <strong>Information Technology Degree</strong> at <strong>SLIIT</strong>
+</p>
+
+---
 
 ### 🛠️ Tech Stack & Tools
+
+<div align="center">
 
 | Category | Technologies |
 | :--- | :--- |
@@ -12,10 +18,20 @@ I'm currently pursuing an **Information Technology Degree** at **SLIIT**
 | **Frontend** | React |
 | **Backend** | Node.js, Spring Boot |
 
+</div>
 
+---
 
-### 🔗 Let's Connect
+### 🔗 Connect with Me
 
-* **LinkedIn:** [Ranuda Perera](https://www.linkedin.com/in/ranuda-perera)
-* **Instagram:** [@ranuda.r](https://www.instagram.com/ranuda.r)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranuda-perera)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranuda.r)
 
+</div>
+
+<p align="center">
+  <strong>📧 LinkedIn:</strong> <a href="https://www.linkedin.com/in/ranuda-perera">Ranuda Perera</a><br>
+  <strong>📷 Instagram:</strong> <a href="https://www.instagram.com/ranuda.r">@ranuda.r</a>
+</p>
