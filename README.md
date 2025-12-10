@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Ranuda</h1>
 
-<h3 align="center">🚀 A Software Developer in progress</h3>
+<h3 align="center">🚀 A Developer in progress</h3>
 
 <p align="center">
   Currently pursuing an <strong>Information Technology Degree</strong> at <strong>SLIIT</strong>
