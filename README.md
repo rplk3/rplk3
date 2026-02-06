@@ -15,7 +15,7 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java |
-| **Frontend** | React |
+| **Frontend** | React | Figma
 | **Backend** | Node.js, Spring Boot |
 
 </div>
