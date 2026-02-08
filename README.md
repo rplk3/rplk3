@@ -17,7 +17,7 @@
 | **Languages** | Python, Java |
 | **Frontend** | React | Figma
 | **Backend** | Node.js, Spring Boot |
-
+sddsadas
 </div>
 
 
