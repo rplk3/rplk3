@@ -15,9 +15,8 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, Java |
-| **Frontend** | React | Figma
+| **Frontend** | React , Figma
 | **Backend** | Node.js, Spring Boot |
-sddsadas
 </div>
 
 
