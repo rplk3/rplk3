@@ -28,7 +28,10 @@
 
 ---
 
-## 👨‍💻 About Me
+
+<div align="center">
+  <img src="./assets/about-me.svg" alt="Technology Stack" />
+</div>
 
 ```javascript
 const developer = {
@@ -36,10 +39,10 @@ const developer = {
     username: "rplk3",
     location: "Sri Lanka 🇱🇰",
     tagline: "Build quietly. Let the code speak!",
-    currentFocus: ["Web Development 🌐", "Building Elegant Solutions 💻"],
-    interests: ["Clean Code 📝", "Problem Solving 🧩", "Open Source 🚀"],
+    currentFocus: ["Web Development", "Building Elegant Solutions"],
+    interests: ["Clean Code", "Problem Solving ", "Open Source"],
     lifePhilosophy: "Quality over quantity. Let the work speak for itself.",
-    funFact: "I believe in writing code that others can understand and maintain ✨"
+    funFact: "I believe in writing code that others can understand and maintain"
 };
 ```
 
