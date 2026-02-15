@@ -2,23 +2,7 @@
 
 </br>
 <!-- Animated Subtitle with Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-weight=600&
-size=28&
-duration=3000&
-pause=1000&
-color=fccac7&
-center=true&
-vCenter=true&
-multiline=true&
-repeat=true&
-width=600&
-height=100&
-lines=Build+quietly.;Let+the+code+speak!" 
-alt="Typing SVG" />
-</a>
+<!-- Animated Subtitle with Typing Effect --> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=fccac7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Build+quietly.;Let+the+code+speak!" alt="Typing SVG" /></a>
 
 ---
 
