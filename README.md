@@ -2,13 +2,14 @@
 
 </br>
 <!-- Animated Subtitle with Typing Effect -->
-<!-- Animated Subtitle with Typing Effect --> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=fccac7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Build+quietly.;Let+the+code+speak!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=fccac7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Build+quietly.;Let+the+code+speak!" alt="Typing SVG" /></a>
 
 ---
 
 <div align="center">
   <img src="./assets/about-me.svg" alt="Technology Stack" />
 </div>
+
 </div>
 
 ```javascript
@@ -23,28 +24,45 @@ const developer = {
     funFact: "I believe in writing code that others can understand and maintain"
 };
 ```
-
+---
 <div align="center">
 
 <div align="center">
   <img src="./assets/technology-stack.svg" alt="Technology Stack" />
 </div>
 
----
 
-#### Programming Languages
+<table>
+  <tr>
+    <td style="color: #fccac7; font-weight: bold;">
+      Tools & Platforms
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java" />
 </p>
+<table>
+  <tr>
+    <td style="color: #fccac7; font-weight: bold;">
+      Frameworks & Libraries
+    </td>
+  </tr>
+</table>
 
-#### Frameworks & Libraries
 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,mongodb,mysql" />
 </p>
 
-#### Tools & Platforms
+<table>
+  <tr>
+    <td style="color: #fccac7; font-weight: bold;">
+      Tools & Platforms
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,supabase,postman,figma,vercel" />
 </p>
