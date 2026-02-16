@@ -52,7 +52,7 @@ const developer = {
 </p>
 
 <!-- GitHub Status -->
----
+
 <div align="center">
   <img src="./assets/stats-title.svg" alt="My GitHub Stats" />
 </div>
@@ -64,7 +64,7 @@ const developer = {
 
 <p align="center"><img align="center" src="https://github-readme-status-swart.vercel.app/api/top-langs?username=rplk3&show_icons=true&locale=en&layout=compact" alt="rplk3" /></p>
 
----
+
 
 <br/>
 
