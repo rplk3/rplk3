@@ -31,13 +31,13 @@ const developer = {
   <img src="./assets/technology-stack.svg" alt="Technology Stack" />
 </div>
 
-#### Tools and Platforms
+### Tools and Platforms
     
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java" />
 </p>
 
-####  Frameworks & Libraries
+###  Frameworks & Libraries
     
 
 <p align="center">
@@ -45,7 +45,7 @@ const developer = {
 </p>
 
 
-#### Tools & Platforms
+### Tools & Platforms
     
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,supabase,postman,figma,vercel" />
