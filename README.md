@@ -31,38 +31,22 @@ const developer = {
   <img src="./assets/technology-stack.svg" alt="Technology Stack" />
 </div>
 
-
-<table>
-  <tr>
-    <td style="color: #fccac7; font-weight: bold;">
-      Tools & Platforms
-    </td>
-  </tr>
-</table>
+#### Tools and Platforms
+    
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java" />
 </p>
-<table>
-  <tr>
-    <td style="color: #fccac7; font-weight: bold;">
-      Frameworks & Libraries
-    </td>
-  </tr>
-</table>
 
-
+####  Frameworks & Libraries
+    
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,mongodb,mysql" />
 </p>
 
-<table>
-  <tr>
-    <td style="color: #fccac7; font-weight: bold;">
-      Tools & Platforms
-    </td>
-  </tr>
-</table>
+
+#### Tools & Platforms
+    
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,supabase,postman,figma,vercel" />
 </p>
