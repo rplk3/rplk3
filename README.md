@@ -51,6 +51,7 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=git,github,supabase,postman,figma,vercel" />
 </p>
 
+---
 <!-- GitHub Status -->
 
 <div align="center">
