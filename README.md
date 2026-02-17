@@ -60,7 +60,11 @@ const developer = {
 
 <p href="" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=rplk3&theme=radical&border_radius=50&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" align="center" /></p>
 
+</br>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-status-swart.vercel.app/api?username=rplk3&show_icons=true&locale=en" alt="rplk3" /></p>
+
+</br>
 
 <p align="center"><img align="center" src="https://github-readme-status-swart.vercel.app/api/top-langs?username=rplk3&show_icons=true&locale=en&layout=compact" alt="rplk3" /></p>
 
